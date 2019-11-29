@@ -1,6 +1,6 @@
 # All currencies
 This extension permits you to copy a currency symbol in the clipboard.
-It is published on Firefox Addons https://addons.mozilla.org/it/firefox/addon//.
+It is published on Firefox Addons https://addons.mozilla.org/it/firefox/addon/all-currencies/.
 
 ## How to contribute
 You can open an issue and there you must describe the feedback, the bug or the new feature you want.
